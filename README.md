@@ -24,6 +24,14 @@ The Library Web App CRUD is built using the following technologies:
 - **Front-end**: HTML, CSS, JavaScript
 - **Deployment**: Netlify
 
+Here are some screenshots showcasing the Library Web App CRUD:
+
+1. **Homepage**: ![Homepage](screenshots/homepage.png)
+   *The homepage displays the collection of books with their details.*
+
+2. **Add Book**: ![Add Book](screenshots/add-book.png)
+   *The "Add Book" section allows users to add new books to the library.*
+   
 ## Contributing
 
 If you would like to contribute to the Library Web App CRUD, please follow these steps:
